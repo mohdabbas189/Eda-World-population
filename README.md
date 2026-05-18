@@ -1,5 +1,4 @@
-
-#🌍 World Population Analysis Project
+🌍 World Population Analysis Project
 
 This project focuses on exploring and analyzing global population trends using historical and recent data across countries and continents.
 
