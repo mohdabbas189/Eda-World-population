@@ -29,6 +29,10 @@ Compare population across continents
 Identify top populated countries
 Study population density distribution
 Visualize historical population changes
+
+
+
+
 🧰 Technologies Used
 Python 🐍
 Pandas 📊
